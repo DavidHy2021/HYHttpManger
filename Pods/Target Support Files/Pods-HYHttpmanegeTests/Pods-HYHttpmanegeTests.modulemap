@@ -1,0 +1,6 @@
+framework module Pods_HYHttpmanegeTests {
+  umbrella header "Pods-HYHttpmanegeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
